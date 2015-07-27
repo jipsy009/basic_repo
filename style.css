@@ -5,3 +5,7 @@ h1{
 p{
 	font-family: helvetica;
 }
+#sub_content{
+	font-family: helvetica;
+	color: orange;
+}
